@@ -1,6 +1,15 @@
 # firebase_auth_flutter
 
-A new Flutter project.
+Firebase Auth Project
+
+### Another Version
+- [Kotlin(Android)](https://github.com/RadRasyad/Firebase_Sign_In_Log_Out)
+
+# Preview
+<img src="https://github.com/RadRasyad/firebase_auth_flutter/blob/master/assets/screenshot/home.png" width="240"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/RadRasyad/firebase_auth_flutter/blob/master/assets/screenshot/sign_in.png" width="240"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/RadRasyad/firebase_auth_flutter/blob/master/assets/screenshot/sign_up.png" width="240">
+
 
 ## Getting Started
 
