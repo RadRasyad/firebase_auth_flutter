@@ -11,7 +11,7 @@ don't forget to setup the project with firebase
 # Preview
 <img src="https://github.com/RadRasyad/firebase_auth_flutter/blob/master/assets/screenshot/home.png" width="240"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/RadRasyad/firebase_auth_flutter/blob/master/assets/screenshot/sign_in.png" width="240"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/RadRasyad/firebase_auth_flutter/blob/master/assets/screenshot/sign_up.png" width="240">
+<img src="https://github.com/RadRasyad/firebase_auth_flutter/blob/master/assets/screenshot/sign_up_2.png" width="240">
 
 
 ## Getting Started
