@@ -40,7 +40,7 @@ class _SignUpPageState extends State<SignUpPage> {
             child: Column(
               children: [
                 SvgPicture.asset(
-                  "assets/illustrator_sing_in.svg",
+                  "assets/illustrator_sing_up.svg",
                   height: 240.0,
                   width: 240.0,
                 ),
