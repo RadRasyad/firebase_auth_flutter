@@ -33,8 +33,8 @@ class _SignUpPageState extends State<SignUpPage> {
             decoration: BoxDecoration(
                 color: Theme.of(context).colorScheme.surface,
                 borderRadius: const BorderRadius.only(
-                    topLeft: Radius.circular(20.0),
-                    topRight: Radius.circular(20.0)
+                    topLeft: Radius.circular(40.0),
+                    topRight: Radius.circular(40.0)
                 )
             ),
             child: Column(
